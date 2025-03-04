@@ -3,7 +3,6 @@
 ## Overview
 This repository contains the **Beijing Multi-Site Air Quality Dataset**, which includes hourly air pollutant data from 12 monitoring sites in Beijing, China, collected between March 1, 2013, and February 28, 2017. The dataset is sourced from the Beijing Municipal Environmental Monitoring Center and paired with meteorological data from the China Meteorological Administration. This project also includes sample code for exploring and forecasting air quality using Python.
 
-The goal of this repository is to provide a resource for learning time series forecasting techniques, such as ARIMA or machine learning models, applied to real-world air quality data.
 
 ## Dataset Description
 - **Source**: Beijing Municipal Environmental Monitoring Center and China Meteorological Administration
